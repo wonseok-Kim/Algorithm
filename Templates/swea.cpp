@@ -1,8 +1,6 @@
 ﻿// SWEA D? 번호 제목
 // 핵심:
 
-// SWEA D2 1961. 숫자 배열 회전
-
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
