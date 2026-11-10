@@ -1,4 +1,4 @@
-﻿// SWEA D3 1226. [S/W 문제해결 기본] 7일차 - 미로1
+﻿// SWEA D4 1226. [S/W 문제해결 기본] 7일차 - 미로1
 
 #define _CRT_SECURE_NO_WARNINGS
 
